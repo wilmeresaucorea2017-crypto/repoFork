@@ -3,6 +3,9 @@
 ----
 Añade aquí debajo tus comentarios:
 Modificación BIEN hecha por Alejandro Herrero Ganso.
+
+Modificación BIEN hecha por Miguel Alejandro Rincones Salinas
+
 <!-- A partir de aquí (esta línea no se muestra) -->
 Modificación BIEN hecha por Ion Madan
 
