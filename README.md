@@ -6,6 +6,8 @@ Modificación BIEN hecha por Alejandro Herrero Ganso.
 
 Modificación BIEN hecha por Miguel Alejandro Rincones Salinas
 
+Modificacion BIEN hecha  por Cristopher Joseph Orellana Rodriguez
+
 <!-- A partir de aquí (esta línea no se muestra) -->
 Modificación BIEN hecha por Ion Madan
 
