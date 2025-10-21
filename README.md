@@ -13,6 +13,9 @@ Modificación BIEN hecha por Rodrigo Martínez
 <!-- A partir de aquí (esta línea no se muestra) -->
 Modificación BIEN hecha por Ion Madan
 
+ECHO está activado.
+"Modificacion BIEN hecha por Jorge Berlanga de la Fuente" 
+
 Modificación BIEN hecha por Nerea De La Torre Martin
 
 Y aquí venía lo de Justine, pero no se ha podido añadir
