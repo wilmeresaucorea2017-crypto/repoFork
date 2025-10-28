@@ -3,7 +3,7 @@
 ----
 Añade aquí debajo tus comentarios:
 Modificación BIEN hecha por Alejandro Herrero Ganso.
-
+ Extensión hecha por Wilmer Esaug
 Modificación BIEN hecha por Miguel Alejandro Rincones Salinas
 Añade aquí debajo tus comentarios:Modificación BIEN hecha por Kiarash Forouzmand
 
@@ -24,5 +24,5 @@ Modificacion BIEN hecha por Samuel Simeon
 Modificacion Bien hecha por TroyPineda
 
 Modificación BIEN hecha por Nerea De La Torre Martin
-
+MODIFICACION BIEN hecha por Wilmer Esau
 Y aquí venía lo de Justine, pero no se ha podido añadir
